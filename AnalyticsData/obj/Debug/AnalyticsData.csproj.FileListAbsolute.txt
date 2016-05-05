@@ -1,0 +1,14 @@
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\bin\Debug\AnalyticsData.exe.config
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\bin\Debug\AnalyticsData.exe
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\bin\Debug\AnalyticsData.pdb
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\bin\Debug\Elasticsearch.Net.dll
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\bin\Debug\Nest.dll
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\bin\Debug\Elasticsearch.Net.xml
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\bin\Debug\Nest.pdb
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\bin\Debug\Nest.xml
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\obj\Debug\AnalyticsData.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\obj\Debug\AnalyticsData.exe
+C:\Users\Louis\Dropbox\Coding\Trunk\AnalyticsData\AnalyticsData\obj\Debug\AnalyticsData.pdb
